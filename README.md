@@ -34,3 +34,10 @@ http://localhost:3000/users?age_gte=30&age_lte=40
 
 //搜索用户信息
 http://localhost:3000/users?q=h# jsonserver
+
+
+```
+npm install -g json-server
+
+npm run json:server
+```

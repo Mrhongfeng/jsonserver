@@ -4,7 +4,7 @@
   "description": "test restful api",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json",
+    "json:server": "json-server --watch db.json --host 0.0.0.0 ",
     "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db"
   },
   "author": "",

@@ -21,7 +21,7 @@ http://localhost:3000/companies?name=Microsoft
 http://localhost:3000/companies?name=Microsoft&name=Apple
 
 //获取一页中只有两条数据
-http://localhost:3000/companies/_page=1&_limit=2
+http://localhost:3000/companies?_page=1&_limit=2
 
 //升序排序 asc升序  desc降序
 http://localhost:3000/companies?_sort=name&_order=asc

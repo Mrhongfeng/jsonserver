@@ -22,11 +22,11 @@
       "shopId": 10001,
       "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
+      "nowNum": 10,
       "targetNum": 100,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 0,
-      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuURL": "https://github.com/Mrhongfeng/community/raw/master/thanks%20fork%20and%20star.jpg?raw=true",
       "skuName": "奥克斯空调",
       "couponNum": 100,
       "JbeanNum": 200
@@ -36,27 +36,27 @@
       "shopId": 10002,
       "shopName": "奥克斯空调官方旗舰店2官方旗舰店官方旗舰店",
       "state": 1,
-      "nowNum": 50,
-      "targetNum": 200,
-      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "nowNum": 20,
+      "targetNum": 100,
+      "toolURL": "https://wqitem.jd.com/item/view?sku=7429927#main",
       "style": 1,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 300
     },
     {
       "nextPage": 2,
       "shopId": 10003,
       "shopName": "奥克斯空调官方旗舰店3官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
+      "nowNum": 30,
       "targetNum": 100,
-      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "toolURL": "https://wqitem.jd.com/item/view?sku=100007001632#main",
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 12100,
       "JbeanNum": 200
     },
     {
@@ -65,10 +65,10 @@
       "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
       "state": 0,
       "nowNum": 40,
-      "targetNum": 120,
+      "targetNum": 100,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 0,
-      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuURL": "https://img14.360buyimg.com/n0/jfs/t1/95954/26/490/69724/5daeb026E75c1f7c9/93f7c723181112d8.jpg",
       "skuName": "奥克斯空调",
       "couponNum": 100,
       "JbeanNum": 200
@@ -79,26 +79,26 @@
       "shopName": "美的空调官方旗舰店2官方旗舰店官方旗舰店",
       "state": 1,
       "nowNum": 50,
-      "targetNum": 200,
+      "targetNum": 100,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 1,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "美的空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 2000
     },
     {
       "nextPage": 2,
       "shopId": 10006,
       "shopName": "奥克斯空调官方旗舰店3官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
-      "targetNum": 100,
+      "nowNum": 120,
+      "targetNum": 200,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 10,
       "JbeanNum": 200
     },
     {
@@ -106,11 +106,11 @@
       "shopId": 10007,
       "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
-      "targetNum": 100,
+      "nowNum": 210,
+      "targetNum": 300,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 0,
-      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuURL": "https://img13.360buyimg.com/n1/s450x450_jfs/t1/69666/15/5134/224876/5d352d89E0ea43121/199db4fdcf4452a6.jpg",
       "skuName": "奥克斯空调",
       "couponNum": 100,
       "JbeanNum": 200
@@ -120,27 +120,27 @@
       "shopId": 10008,
       "shopName": "奥克斯空调官方旗舰店2官方旗舰店官方旗舰店",
       "state": 1,
-      "nowNum": 50,
-      "targetNum": 200,
+      "nowNum": 320,
+      "targetNum": 400,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 1,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 400
     },
     {
       "nextPage": 2,
       "shopId": 10009,
       "shopName": "奥克斯空调官方旗舰店3官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
-      "targetNum": 100,
+      "nowNum": 450,
+      "targetNum": 500,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 99,
       "JbeanNum": 200
     },
     {
@@ -148,8 +148,8 @@
       "shopId": 10010,
       "shopName": "奥克斯空调官方旗舰店3官方旗舰店官方旗舰店",
       "state": 0,
-      "nowNum": 40,
-      "targetNum": 100,
+      "nowNum": 1000,
+      "targetNum": 1000,
       "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
@@ -183,7 +183,7 @@
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 100
     },
     {
       "nextPage": 3,
@@ -225,7 +225,7 @@
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "美的空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 600
     },
     {
       "nextPage": 3,
@@ -267,7 +267,7 @@
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 50
     },
     {
       "nextPage": 3,
@@ -323,7 +323,7 @@
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调2",
       "couponNum": 100,
-      "JbeanNum": 200
+      "JbeanNum": 666
     },
     {
       "nextPage": 4,
@@ -364,8 +364,8 @@
       "style": 1,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "美的空调2",
-      "couponNum": 100,
-      "JbeanNum": 200
+      "couponNum": 1000,
+      "JbeanNum": 2000
     },
     {
       "nextPage": 4,
@@ -420,7 +420,7 @@
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 1000,
       "JbeanNum": 200
     },
     {
@@ -434,7 +434,7 @@
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 3500,
       "JbeanNum": 200
     },
     {
@@ -476,7 +476,7 @@
       "style": 2,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调3",
-      "couponNum": 100,
+      "couponNum": 10000,
       "JbeanNum": 200
     },
     {
@@ -490,6 +490,90 @@
       "style": 0,
       "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
       "skuName": "奥克斯空调",
+      "couponNum": 100,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10035,
+      "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
+      "state": 0,
+      "nowNum": 40,
+      "targetNum": 100,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 0,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调",
+      "couponNum": 100,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10036,
+      "shopName": "奥克斯空调官方旗舰店2官方旗舰店官方旗舰店",
+      "state": 1,
+      "nowNum": 50,
+      "targetNum": 200,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 1,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调2",
+      "couponNum": 100,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10037,
+      "shopName": "奥克斯空调官方旗舰店3官方旗舰店官方旗舰店",
+      "state": 0,
+      "nowNum": 40,
+      "targetNum": 100,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 2,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调3",
+      "couponNum": 10000,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10038,
+      "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
+      "state": 0,
+      "nowNum": 40,
+      "targetNum": 120,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 0,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调",
+      "couponNum": 100,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10039,
+      "shopName": "奥克斯空调官方旗舰店官方旗舰店官方旗舰店",
+      "state": 0,
+      "nowNum": 40,
+      "targetNum": 100,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 0,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调",
+      "couponNum": 100,
+      "JbeanNum": 200
+    },
+    {
+      "nextPage": -1,
+      "shopId": 10040,
+      "shopName": "奥克斯空调官方旗舰店2官方旗舰店官方旗舰店",
+      "state": 1,
+      "nowNum": 50,
+      "targetNum": 200,
+      "toolURL": "https://shop.m.jd.com/?shopId=1000001314&ptag=37146.3.2#index",
+      "style": 1,
+      "skuURL": "https://img10.360buyimg.com/n1/s160x160_jfs/t1/85308/1/268/99046/5da9b3d3Ee721c416/7c48510c25aa1858.jpg",
+      "skuName": "奥克斯空调2",
       "couponNum": 100,
       "JbeanNum": 200
     }
